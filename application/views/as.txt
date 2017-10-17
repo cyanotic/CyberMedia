@@ -1,0 +1,27 @@
+<div class="wrapper bgded" style="background-image:url('<?php echo base_url();?>images/demo/backgrounds/03.png');">
+  <ul class="nospace group clrbox">
+    <!-- ################################################################################################ -->
+    <li>
+      <article>
+        <h4 class="heading">Suspendisse potenti nullam</h4>
+        <p>Fermentum convallis elit duis nec magna quis dolor vulputate aliquet dapibus ullamcorper suspendisse sit amet&hellip;</p>
+        <footer><a class="btn" href="#">Read More</a></footer>
+      </article>
+    </li>
+    <li>
+      <article>
+        <h4 class="heading">Nec rutrum tellus sit</h4>
+        <p>Ex cursus luctus donec consequat vitae mi in dictum praesent posuere mi nibh eu vehicula sapien tincidunt vel&hellip;</p>
+        <footer><a class="btn inverse" href="#">Read More</a></footer>
+      </article>
+    </li>
+    <li>
+      <article>
+        <h4 class="heading">Amet mattis aenean</h4>
+        <p>Velit id nulla varius suscipit nulla vulputate ex id congue venenatis justo massa congue lacus lorem lectus&hellip;</p>
+        <footer><a class="btn" href="#">Read More</a></footer>
+      </article>
+    </li>
+    <!-- ################################################################################################ -->
+  </ul>
+</div>
